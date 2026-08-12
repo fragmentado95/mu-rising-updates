@@ -1,6 +1,6 @@
 {
   "versão": "1.0.1",
   "downloadUrl": "https://github.com/fragmentado95/mu-rising-updates/releases/download/v1.0.1/mu-plugins-update.zip",
-  "sha256": "",
+  "sha256": "213CBD6A7FB3B82CA25DF0716B367C271D3E7D32357F78CDF1BE0FC3345CDB22",
   "notas": "Correção do caminho de instalação. Os plugins agora são instalados diretamente em BepInEx/plugins."
 }
