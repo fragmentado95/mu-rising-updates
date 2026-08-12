@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "downloadUrl": "TESTE",
+  "downloadUrl": "https://github.com/fragmentado95/mu-rising-updates/releases/download/v1.0.0/mu-plugins-update.zip",
   "sha256": "",
-  "notes": "Primeiro teste do sistema de atualização do Mu Rising."
+  "notes": "Primeira versão oficial dos plugins do servidor Mu Rising."
 }
