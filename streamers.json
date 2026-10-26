@@ -5,5 +5,12 @@
     "platformId": "fragmentado_tv",
     "displayName": "Fragmentado",
     "channelUrl": "https://www.twitch.tv/fragmentado_tv"
+  },
+  {
+    "discordUserId": "1563223678064402601",
+    "platform": "twitch",
+    "platformId": "lylluem",
+    "displayName": "Lylluem",
+    "channelUrl": "https://www.twitch.tv/lylluem"
   }
 ]
