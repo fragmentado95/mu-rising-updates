@@ -1,6 +1,6 @@
 {
-  "version": "1.0.7",
-  "downloadUrl": "https://github.com/fragmentado95/mu-rising-updates/releases/download/v1.0.7/mu-plugins-update.zip",
-  "sha256": "2c9c76d59d486dd102bec69405e2e426af769a495d7c72d1483b69e718d13da3",
-  "notes": "Atualização dos plugins Mu Rising v1.0.10"
+  "version": "1.0.11",
+  "downloadUrl": "https://github.com/fragmentado95/mu-rising-updates/releases/download/v1.0.11/mu-plugins-update.zip",
+  "sha256": "3578ff859e8b5c13fdbb64ded16e4c8259b00abec0654302d455913fa3185de7",
+  "notes": "Pacote nativo de plugins Mu Rising v1.0.11"
 }
