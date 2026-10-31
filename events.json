@@ -1,6 +1,6 @@
 {
   "guildId": "1535852880278331463",
-  "updatedAt": "2026-10-26T22:54:41.801Z",
+  "updatedAt": "2026-10-31T06:18:56.510Z",
   "events": [
     {
       "id": "1550669527367417927",
@@ -8,7 +8,7 @@
       "description": "",
       "startAt": "2026-10-31T02:00:00.000Z",
       "endAt": "2026-11-02T16:59:59.700Z",
-      "status": "scheduled",
+      "status": "active",
       "discordUrl": "https://discord.com/events/1535852880278331463/1550669527367417927"
     }
   ]
