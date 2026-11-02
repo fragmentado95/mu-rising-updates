@@ -1,14 +1,14 @@
 {
   "guildId": "1535852880278331463",
-  "updatedAt": "2026-10-31T06:18:56.510Z",
+  "updatedAt": "2026-11-02T17:00:08.334Z",
   "events": [
     {
       "id": "1550669527367417927",
       "title": "2XP GLOBAL",
       "description": "",
-      "startAt": "2026-10-31T02:00:00.000Z",
-      "endAt": "2026-11-02T16:59:59.700Z",
-      "status": "active",
+      "startAt": "2026-11-07T02:00:00.000Z",
+      "endAt": "2026-11-09T16:59:59.700Z",
+      "status": "scheduled",
       "discordUrl": "https://discord.com/events/1535852880278331463/1550669527367417927"
     }
   ]
